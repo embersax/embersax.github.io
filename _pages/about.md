@@ -20,6 +20,12 @@ Experience
 2020 - Research intern at Nortwestern University: Research on developing time-aware Transformers for recommendation system (Mentor: Kunpeng Zhang)  
 2019 - Algorithm scientist intern at Wisutech, Beijing. 
 
+Publication
+------
+* Izquierdo, Zoe Gonzalez, Ruilin Zhou, Klas Markström, and Itay Hen. "Discriminating nonisomorphic graphs with an experimental quantum annealer." Physical Review A 102, no. 3 (2020): 032622.
+* Wang, Qingmin, Ruilin Zhou, Xuying Wang, Yunsheng Guo, Yanan Hao, Ming Lei, and Ke Bi. "Wideband terahertz absorber based on Mie resonance metasurface." AIP Advances 7, no. 11 (2017): 115310.
+* Yu, Shuai, Jia Wang, Tian Zhang, Ruilin Zhou, Jian Dai, Yue Zhou, and Kun Xu. "Performance optimization for plasmonic refractive index sensor based on machine learning." In 17th International Conference on Optical Communications and Networks (ICOCN2018), vol. 11048, pp. 563-567. SPIE, 2019.
+
 Education
 ------
 * B.S. in Applied Physics, Beijing University of Posts and Telecommunications, 2015-2019    
