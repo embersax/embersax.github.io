@@ -15,20 +15,15 @@ I recived my Bachelor's degree in Beijing University of Posts and Telecommunicat
 
 Experience
 ======
-2018 - Research intern at ISI, USC: Conducting research on using quantum annealing to solve isomorphic graph porblem(Mentor: Itay Hen ) 
-
-2018 - Research Intern at Renmin University of China and Tsihua University: Experiment research on Ion trap quantum computing (Mentor: Xiang Zhang)
-
-2020 - Research intern at Nortwestern University: Research on developing 
-time-aware Transformers for recommendation system (Mentor: Kunpeng Zhang)
-
+2018 - Research intern at ISI, USC: Conducting research on using quantum annealing to solve isomorphic graph porblem(Mentor: Itay Hen )  
+2018 - Research Intern at Renmin University of China and Tsihua University: Experiment research on Ion trap quantum computing (Mentor: Xiang Zhang)  
+2020 - Research intern at Nortwestern University: Research on developing time-aware Transformers for recommendation system (Mentor: Kunpeng Zhang)  
 2019 - Algorithm scientist intern at Wisutech, Beijing. 
 
 Education
 ------
- B.S. in Applied Physics, Beijing University of Posts and Telecommunications, 2015-2019
-
- M.S in Electrical Engineering, Northwestern University, 2019-2021
+*B.S. in Applied Physics, Beijing University of Posts and Telecommunications, 2015-2019
+*M.S in Electrical Engineering, Northwestern University, 2019-2021
 
 Teaching 
 ------
