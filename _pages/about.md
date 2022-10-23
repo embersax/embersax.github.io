@@ -22,8 +22,9 @@ Experience
 
 Education
 ------
-*B.S. in Applied Physics, Beijing University of Posts and Telecommunications, 2015-2019
-*M.S in Electrical Engineering, Northwestern University, 2019-2021
+* B.S. in Applied Physics, Beijing University of Posts and Telecommunications, 2015-2019    
+* M.S in Electrical Engineering, Northwestern University, 2019-2021  
+* Ph.D in Computer Science Enginnering, 2021-2026
 
 Teaching 
 ------
